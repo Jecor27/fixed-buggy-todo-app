@@ -1,4 +1,7 @@
-# React + Vite
+# fxing a buggy application using React + Vite
+ 
+the purpose for this application was to fix any on going errors and to get the application working. Which would render a TODO list. 
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
